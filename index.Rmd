@@ -1,0 +1,16 @@
+---
+title: "A General Directory"
+author: "Jonah Dominguez"
+date: "8/3/2020"
+output: html_document
+---
+
+Looking to navigate the website? You've come to the right place. I've got a random assortments of projects that I've been involved with, so if you're looking for a specific one, this is the place to go. 
+
+[About me](about.html)
+
+Interested in learning about me? This is the place to go. 
+
+[Thresholding Tutorial](tutorial.html)
+
+If you're here because of my work with MIBI, and interested in learning about 

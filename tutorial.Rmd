@@ -1,0 +1,9 @@
+---
+title: "MIBI Tutorial"
+author: "Jonah Dominguez"
+date: "8/3/2020"
+output: html_document
+---
+
+If you're here because of my work with MIBI thresholding, then you're likely looking for my tutorial on how to use the ImageJ macro to threshold IONpath tool that I worked with. 
+

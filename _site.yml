@@ -1,0 +1,16 @@
+name: "Website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "MIBI Tutorial"
+      href: tutorial.html
+    - icon: fa-envelope fa-lg
+      href: mailto:disconsolatedragon@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/JonahGoldCardinal/
+output:
+  html_document:
+    theme: united
